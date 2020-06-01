@@ -10920,3 +10920,16 @@
   built_by: Simon Halimonov
   built_by_url: https://simonhalimonov.com/
   featured: false
+- title: Nagarjun Palavalli
+  main_url: https://nagarjun.co/
+  url: https://nagarjun.co/
+  # optional: short paragraph describing the content and/or purpose of the site that will appear in the modal detail view and permalink views for your site
+  description: >
+    My personal website built with Gatsby. I am a full-stack web developer and designer based in Bangalore, India.
+  categories:
+    - Portfolio
+    - Blog
+  # Add the name (developer or company) and URL (e.g. Twitter, GitHub, portfolio) to be used for attribution
+  built_by: Nagarjun Palavalli
+  built_by_url: https://twitter.com/palavalli
+  featured: false
